@@ -1,0 +1,67 @@
+html,body{
+    height: 100%;
+    width: 100%;
+    background-color: black;
+    color: white;
+}
+#topliner{
+    background-color: aqua;
+    padding: 15px;
+    margin: 15px;
+}
+span a{
+    padding: 15px;
+    margin: 15px;
+    justify-content: space-around;
+    text-decoration: none;
+    color: rgb(0, 0, 51);
+
+}
+
+#one{
+    height: 500px;
+    width: 100%;
+    background-image: url('c.jpg');
+    background-repeat: no-repeat;
+    background-size:cover;
+}
+
+#two img{
+    margin: 20px;
+    height: 300px;
+    width: 600px;
+}
+#hone{
+    color:green;
+position: absolute;
+top: 950px;
+left: 300px;
+font-size: 20px;
+}
+#htwo{
+    color:gray;
+position: absolute;
+top: 960px;
+left: 950px;
+font-size: 20px;
+}
+#three img{
+
+    margin: 20px;
+    height: 300px;
+    width: 600px;
+}
+#ht{
+    color:rgb(214, 138, 39);
+    position: absolute;
+   
+    left: 200px;
+    font-size: 20px;
+}
+#ho{
+    color:burlywood;
+    position: absolute;
+   
+    left: 950px;
+    font-size: 20px;
+}
